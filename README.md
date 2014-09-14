@@ -1,2 +1,2 @@
-gitTutorial
+gitTutorial helps
 ===========
